@@ -8,7 +8,7 @@ A React application to manage users, including viewing, adding, editing, and del
 - Delete users.
 - Error handling for API failures.
 
-## I have faced challenges 
+## Faced challenges 
 •	Handling API Failures
 •	State Management
 •	Form Management: Dynamically updating form fields for both adding and editing users was challenging, especially with nested data like company.name.
